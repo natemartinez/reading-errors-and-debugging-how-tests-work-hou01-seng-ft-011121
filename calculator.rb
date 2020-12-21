@@ -1,1 +1,3 @@
-def addition(first_number=3,)
+first_number=3
+second_number=5
+
